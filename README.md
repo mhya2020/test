@@ -1,1 +1,46 @@
-# test
+|    | 學校名稱               | 種類   | 性別   | 語言   | 收生   | links                                     |
+|---:|:-----------------------|:-------|:-------|:-------|:-------|:------------------------------------------|
+|  0 | 沙田崇真中學           | 資助   | 男女   | 英中   | BAND 1 | https://www.schooland.hk/ss/sttss         |
+|  1 | 浸信會呂明才中學       | 資助   | 男女   | 英中   | BAND 1 | https://www.schooland.hk/ss/blmcss        |
+|  2 | 沙田培英中學           | 資助   | 男女   | 英中   | BAND 1 | https://www.schooland.hk/ss/pyc           |
+|  3 | 聖公會林裘謀中學       | 資助   | 男女   | 英中   | BAND 1 | https://www.schooland.hk/ss/skhlkmss      |
+|  4 | 聖公會曾肇添中學       | 資助   | 男女   | 英中   | BAND 1 | https://www.schooland.hk/ss/skhtst        |
+|  5 | 天主教郭得勝中學       | 資助   | 男女   | 英中   | BAND 1 | https://www.schooland.hk/ss/ktscss        |
+|  6 | 五旬節林漢光中學       | 資助   | 男女   | 英中   | BAND 1 | https://www.schooland.hk/ss/plhks         |
+|  7 | 沙田官立中學           | 官立   | 男女   | 英中   | BAND 1 | https://www.schooland.hk/ss/stgss         |
+|  8 | 沙田蘇浙公學           | 資助   | 男女   | 英中   | BAND 1 | https://www.schooland.hk/ss/kcc-st        |
+|  9 | 王錦輝中小學           | 直資   | 男女   | 英中   | BAND 1 | https://www.schooland.hk/ss/hkbuas        |
+| 10 | 培僑書院               | 直資   | 男女   | 英中   | BAND 1 | https://www.schooland.hk/ss/puikiucollege |
+| 11 | 沙田循道衞理中學       | 資助   | 男女   | 英中   | BAND 1 | https://www.schooland.hk/ss/stmc          |
+| 12 | 聖羅撒書院             | 資助   | 女校   | 英中   | BAND 1 | https://www.schooland.hk/ss/hksrl         |
+| 13 | 聖母無玷聖心書院       | 資助   | 男女   | 英中   | BAND 1 | https://www.schooland.hk/ss/ihmc          |
+| 14 | 宣道會鄭榮之中學       | 資助   | 男女   | 英中   | BAND 1 | https://www.schooland.hk/ss/cwgc          |
+| 15 | 賽馬會體藝中學         | 資助   | 男女   | 英中   | BAND 1 | https://www.schooland.hk/ss/tic           |
+| 16 | 香港神託會培基書院     | 直資   | 男女   | 英中   | BAND 1 | https://www.schooland.hk/ss/spkc          |
+| 17 | 馬鞍山聖若瑟中學       | 資助   | 男女   | 中中   | BAND 2 | https://www.schooland.hk/ss/mossjss       |
+| 18 | 馬鞍山崇真中學         | 資助   | 男女   | 中中   | BAND 2 | https://www.schooland.hk/ss/mosttss       |
+| 19 | 保良局胡忠中學         | 資助   | 男女   | 中中   | BAND 2 | https://www.schooland.hk/ss/plkwcc        |
+| 20 | 基督書院               | 資助   | 男女   | 中中   | BAND 2 | https://www.schooland.hk/ss/christcollege |
+| 21 | 佛教覺光法師中學       | 資助   | 男女   | 中中   | BAND 2 | https://www.schooland.hk/ss/bkkss         |
+| 22 | 馮堯敬紀念中學         | 資助   | 男女   | 中中   | BAND 2 | https://www.schooland.hk/ss/fyk           |
+| 23 | 陳震夏中學             | 資助   | 男女   | 中中   | BAND 2 | https://www.schooland.hk/ss/cch           |
+| 24 | 博愛醫院陳楷紀念中學   | 資助   | 男女   | 中中   | BAND 2 | https://www.schooland.hk/ss/pohck         |
+| 25 | 樂善堂楊葛小琳中學     | 資助   | 男女   | 中中   | BAND 2 | https://www.schooland.hk/ss/lstyoungkhl   |
+| 26 | 青年會書院             | 資助   | 男女   | 中中   | BAND 2 | https://www.schooland.hk/ss/ymca-coll     |
+| 27 | 東莞工商總會劉百樂中學 | 資助   | 男女   | 中中   | BAND 2 | https://www.schooland.hk/ss/lplss         |
+| 28 | 梁文燕紀念中學(沙田)   | 官立   | 男女   | 中中   | BAND 2 | https://www.schooland.hk/ss/hlmssst       |
+| 29 | 林大輝中學             | 直資   | 男女   | 英中   | BAND 2 | https://www.schooland.hk/ss/ltfc          |
+| 30 | 德信中學               | 直資   | 男校   | 英中   | BAND 2 | https://www.schooland.hk/ss/tsss          |
+| 31 | 東華三院馮黃鳳亭中學   | 資助   | 男女   | 中中   | BAND 2 | https://www.schooland.hk/ss/twghfwfts     |
+| 32 | 佛教黃允畋中學         | 資助   | 男女   | 中中   | BAND 3 | https://www.schooland.hk/ss/bwwtc         |
+| 33 | 五育中學               | 資助   | 男女   | 中中   | BAND 3 | https://www.schooland.hk/ss/nyss          |
+| 34 | 台山商會中學           | 資助   | 男女   | 中中   | BAND 3 | https://www.schooland.hk/ss/tsac          |
+| 35 | 東華三院黃鳳翎中學     | 資助   | 男女   | 中中   | BAND 3 | https://www.schooland.hk/ss/twghwflc      |
+| 36 | 東華三院邱金元中學     | 資助   | 男女   | 中中   | BAND 3 | https://www.schooland.hk/ss/twyky         |
+| 37 | 潮州會館中學           | 資助   | 男女   | 中中   | BAND 3 | https://www.schooland.hk/ss/ccass         |
+| 38 | 保良局朱敬文中學       | 資助   | 男女   | 中中   | BAND 3 | https://www.schooland.hk/ss/plkcwc        |
+| 39 | 樂道中學               | 資助   | 男女   | 中中   | BAND 3 | https://www.schooland.hk/ss/locktao       |
+| 40 | 曾璧山(崇蘭)中學       | 資助   | 男女   | 中中   | BAND 3 | https://www.schooland.hk/ss/tpsss         |
+| 41 | 明愛馬鞍山中學         | 資助   | 男女   | 中中   | BAND 3 | https://www.schooland.hk/ss/cmos          |
+| 42 | 仁濟醫院董之英紀念中學 | 資助   | 男女   | 中中   | BAND 3 | https://www.schooland.hk/ss/ychtcy        |
+| 43 | 啓新書院               | 私立   | 男女   | 英中   | -      | https://www.schooland.hk/ss/renaissance   |
