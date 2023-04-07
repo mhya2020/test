@@ -1,37 +1,39 @@
-[五旬節林漢光中學](https://dse.bigexam.hk/zh-hk/ssp/school/352)  
-[沙田培英中學](https://dse.bigexam.hk/zh-hk/ssp/school/264)  
-[沙田官立中學](https://dse.bigexam.hk/zh-hk/ssp/school/263)  
-[沙田崇真中學](https://dse.bigexam.hk/zh-hk/ssp/school/262)  
-[沙田循道衞理中學](https://dse.bigexam.hk/zh-hk/ssp/school/266)  
-[宣道會鄭榮之中學](https://dse.bigexam.hk/zh-hk/ssp/school/377)  
-[天主教郭得勝中學](https://dse.bigexam.hk/zh-hk/ssp/school/336)  
-[沙田蘇浙公學](https://dse.bigexam.hk/zh-hk/ssp/school/265)  
-[浸信會呂明才中學](https://dse.bigexam.hk/zh-hk/ssp/school/161)  
-[聖公會曾肇添中學](https://dse.bigexam.hk/zh-hk/ssp/school/296)  
-[聖公會林裘謀中學](https://dse.bigexam.hk/zh-hk/ssp/school/289)  
-[聖母無玷聖心書院](https://dse.bigexam.hk/zh-hk/ssp/school/307)  
-[聖羅撒書院](https://dse.bigexam.hk/zh-hk/ssp/school/302)  
-[陳震夏中學](https://dse.bigexam.hk/zh-hk/ssp/school/392)  
-[青年會書院](https://dse.bigexam.hk/zh-hk/ssp/school/240)  
-[馬鞍山崇真中學](https://dse.bigexam.hk/zh-hk/ssp/school/207)  
-[樂善堂楊葛小琳中學](https://dse.bigexam.hk/zh-hk/ssp/school/185)  
-[馬鞍山聖若瑟中學](https://dse.bigexam.hk/zh-hk/ssp/school/208)  
-[梁文燕紀念中學（沙田）](https://dse.bigexam.hk/zh-hk/ssp/school/192)  
-[東華三院馮黃鳳亭中學](https://dse.bigexam.hk/zh-hk/ssp/school/62)  
-[佛教覺光法師中學](https://dse.bigexam.hk/zh-hk/ssp/school/99)  
-[保良局胡忠中學](https://dse.bigexam.hk/zh-hk/ssp/school/10)  
-[博愛醫院陳楷紀念中學](https://dse.bigexam.hk/zh-hk/ssp/school/32)  
-[基督書院](https://dse.bigexam.hk/zh-hk/ssp/school/142)  
-[馮堯敬紀念中學](https://dse.bigexam.hk/zh-hk/ssp/school/390)  
-[東莞工商總會劉百樂中學](https://dse.bigexam.hk/zh-hk/ssp/school/79)  
-[曾璧山（崇蘭）中學](https://dse.bigexam.hk/zh-hk/ssp/school/427)  
-[台山商會中學](https://dse.bigexam.hk/zh-hk/ssp/school/330)  
-[東華三院黃鳳翎中學](https://dse.bigexam.hk/zh-hk/ssp/school/64)  
-[東華三院邱金元中學](https://dse.bigexam.hk/zh-hk/ssp/school/73)  
-[保良局朱敬文中學](https://dse.bigexam.hk/zh-hk/ssp/school/20)  
-[佛教黃允畋中學](https://dse.bigexam.hk/zh-hk/ssp/school/96)  
-[樂道中學](https://dse.bigexam.hk/zh-hk/ssp/school/180)  
-[仁濟醫院董之英紀念中學](https://dse.bigexam.hk/zh-hk/ssp/school/252)  
-[五育中學](https://dse.bigexam.hk/zh-hk/ssp/school/356)  
-[明愛馬鞍山中學](https://dse.bigexam.hk/zh-hk/ssp/school/225)  
-[潮州會館中學](https://dse.bigexam.hk/zh-hk/ssp/school/40)  
+| 學校名稱 | 收生 |
+|---------|------|
+| [五旬節林漢光中學](https://dse.bigexam.hk/zh-hk/ssp/school/352) | BAND 1 |
+| [沙田培英中學](https://dse.bigexam.hk/zh-hk/ssp/school/264) | BAND 1 |
+| [沙田官立中學](https://dse.bigexam.hk/zh-hk/ssp/school/263) | BAND 1 |
+| [沙田崇真中學](https://dse.bigexam.hk/zh-hk/ssp/school/262) | BAND 1 |
+| [沙田循道衞理中學](https://dse.bigexam.hk/zh-hk/ssp/school/266) | BAND 1 |
+| [宣道會鄭榮之中學](https://dse.bigexam.hk/zh-hk/ssp/school/377) | BAND 1 |
+| [天主教郭得勝中學](https://dse.bigexam.hk/zh-hk/ssp/school/336) | BAND 1 |
+| [沙田蘇浙公學](https://dse.bigexam.hk/zh-hk/ssp/school/265) | BAND 1 |
+| [浸信會呂明才中學](https://dse.bigexam.hk/zh-hk/ssp/school/161) | BAND 1 |
+| [聖公會曾肇添中學](https://dse.bigexam.hk/zh-hk/ssp/school/296) | BAND 1 |
+| [聖公會林裘謀中學](https://dse.bigexam.hk/zh-hk/ssp/school/289) | BAND 1 |
+| [聖母無玷聖心書院](https://dse.bigexam.hk/zh-hk/ssp/school/307) | BAND 1 |
+| [聖羅撒書院](https://dse.bigexam.hk/zh-hk/ssp/school/302) | BAND 1 |
+| [陳震夏中學](https://dse.bigexam.hk/zh-hk/ssp/school/392) | BAND 2 |
+| [青年會書院](https://dse.bigexam.hk/zh-hk/ssp/school/240) | BAND 2 |
+| [馬鞍山崇真中學](https://dse.bigexam.hk/zh-hk/ssp/school/207) | BAND 2 |
+| [樂善堂楊葛小琳中學](https://dse.bigexam.hk/zh-hk/ssp/school/185) | BAND 2 |
+| [馬鞍山聖若瑟中學](https://dse.bigexam.hk/zh-hk/ssp/school/208) | BAND 2 |
+| [梁文燕紀念中學（沙田）](https://dse.bigexam.hk/zh-hk/ssp/school/192) | BAND 2 |
+| [東華三院馮黃鳳亭中學](https://dse.bigexam.hk/zh-hk/ssp/school/62) | BAND 2 |
+| [佛教覺光法師中學](https://dse.bigexam.hk/zh-hk/ssp/school/99) | BAND 2 |
+| [保良局胡忠中學](https://dse.bigexam.hk/zh-hk/ssp/school/10) | BAND 2 |
+| [博愛醫院陳楷紀念中學](https://dse.bigexam.hk/zh-hk/ssp/school/32) | BAND 2 |
+| [基督書院](https://dse.bigexam.hk/zh-hk/ssp/school/142) | BAND 2 |
+| [馮堯敬紀念中學](https://dse.bigexam.hk/zh-hk/ssp/school/390) | BAND 2 |
+| [東莞工商總會劉百樂中學](https://dse.bigexam.hk/zh-hk/ssp/school/79) | BAND 2 |
+| [曾璧山（崇蘭）中學](https://dse.bigexam.hk/zh-hk/ssp/school/427) | BAND 3 |
+| [台山商會中學](https://dse.bigexam.hk/zh-hk/ssp/school/330) | BAND 3 |
+| [東華三院黃鳳翎中學](https://dse.bigexam.hk/zh-hk/ssp/school/64) | BAND 3 |
+| [東華三院邱金元中學](https://dse.bigexam.hk/zh-hk/ssp/school/73) | BAND 3 |
+| [保良局朱敬文中學](https://dse.bigexam.hk/zh-hk/ssp/school/20) | BAND 3 |
+| [佛教黃允畋中學](https://dse.bigexam.hk/zh-hk/ssp/school/96) | BAND 3 |
+| [樂道中學](https://dse.bigexam.hk/zh-hk/ssp/school/180) | BAND 3 |
+| [仁濟醫院董之英紀念中學](https://dse.bigexam.hk/zh-hk/ssp/school/252) | BAND 3 |
+| [五育中學](https://dse.bigexam.hk/zh-hk/ssp/school/356) | BAND 3 |
+| [明愛馬鞍山中學](https://dse.bigexam.hk/zh-hk/ssp/school/225) | BAND 3 |
+| [潮州會館中學](https://dse.bigexam.hk/zh-hk/ssp/school/40) | BAND 3 |
