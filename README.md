@@ -1,5 +1,5 @@
 |校號|學校名稱 | 家校會 | 升學天地 | 文憑試 | 收生 | 往年成績走勢 | 自行學位 | 非保留學額 | 直屬學額 | 宗教 | 種類 | 性別 | 語言 |
-|----|---------|-------|---------|-------|------|------------|--------|------|------|------|------|
+|----|---------|-------|---------|-------|------|-------------|---------|-----------|---------|------|------|------|------|
 | 454 | 宣道會鄭榮之中學 | [家校會](https://www.chsc.hk/ssp2022/sch_detail.php?li_id=2&lang_id=2&chg_district_id=1&sch_id=377&return_page=sch_list.php%3Flang_id%3D2%26chg_district_id%3D1%26search_mode%3D%26frmMode%3Dpagebreak%26sort_id%3D-1%26district_id%3D13) | [升學天地](https://www.schooland.hk/ss/cwgc) | [文憑試](https://dse.bigexam.hk/zh-hk/ssp/school/377) |         BAND 1 | 1C-2A-2A | 40 | 74 | 0 |基督教 | 資助 | 男女 | 英中 |
 | 458 | 聖母無玷聖心書院 | [家校會](https://www.chsc.hk/ssp2022/sch_detail.php?li_id=2&lang_id=2&chg_district_id=1&sch_id=307&return_page=sch_list.php%3Flang_id%3D2%26chg_district_id%3D1%26search_mode%3D%26frmMode%3Dpagebreak%26sort_id%3D-1%26district_id%3D13) | [升學天地](https://www.schooland.hk/ss/ihmc) | [文憑試](https://dse.bigexam.hk/zh-hk/ssp/school/307) |         BAND 1 | 2B-2A-2A | 41 | 56 | 22 |天主教 | 資助 | 男女 | 英中 |
 | 453 | 基督書院 | [家校會](https://www.chsc.hk/ssp2022/sch_detail.php?li_id=2&lang_id=2&chg_district_id=1&sch_id=142&return_page=sch_list.php%3Flang_id%3D2%26chg_district_id%3D1%26search_mode%3D%26frmMode%3Dpagebreak%26sort_id%3D-1%26district_id%3D13) | [升學天地](https://www.schooland.hk/ss/christcollege) | [文憑試](https://dse.bigexam.hk/zh-hk/ssp/school/142) |         BAND 2 | 2A-2A-2A | 40 | 76 | 0 |基督教 | 資助 | 男女 | 中中 |
@@ -20,7 +20,7 @@
 ![](map.png)
 
 |校號|學校名稱 | 家校會 | 升學天地 | 文憑試 | 收生 | 往年成績走勢 | 自行學位 | 非保留學額 | 直屬學額 | 宗教 | 種類 | 性別 | 語言 |
-|----|---------|-------|---------|-------|------|------------|--------|------|------|------|------|
+|----|---------|-------|---------|-------|------|-------------|---------|-----------|---------|------|------|------|------|
 | 467 | 五旬節林漢光中學 | [家校會](https://www.chsc.hk/ssp2022/sch_detail.php?li_id=2&lang_id=2&chg_district_id=1&sch_id=352&return_page=sch_list.php%3Flang_id%3D2%26chg_district_id%3D1%26search_mode%3D%26frmMode%3Dpagebreak%26sort_id%3D-1%26district_id%3D13) | [升學天地](https://www.schooland.hk/ss/plhks) | [文憑試](https://dse.bigexam.hk/zh-hk/ssp/school/352) |         BAND 1 | 1B | 40 | 74 | 0 |基督教 | 資助 | 男女 | 英中 |
 | 471 | 沙田培英中學 | [家校會](https://www.chsc.hk/ssp2022/sch_detail.php?li_id=2&lang_id=2&chg_district_id=1&sch_id=264&return_page=sch_list.php%3Flang_id%3D2%26chg_district_id%3D1%26search_mode%3D%26frmMode%3Dpagebreak%26sort_id%3D-1%26district_id%3D13) | [升學天地](https://www.schooland.hk/ss/pyc) | [文憑試](https://dse.bigexam.hk/zh-hk/ssp/school/264) |         BAND 1 | 1B-1A-1B | 40 | 74 | 0 |基督教 | 資助 | 男女 | 英中 |
 | 474 | 沙田官立中學 | [家校會](https://www.chsc.hk/ssp2022/sch_detail.php?li_id=2&lang_id=2&chg_district_id=1&sch_id=263&return_page=sch_list.php%3Flang_id%3D2%26chg_district_id%3D1%26search_mode%3D%26frmMode%3Dpagebreak%26sort_id%3D-1%26district_id%3D13) | [升學天地](https://www.schooland.hk/ss/stgss) | [文憑試](https://dse.bigexam.hk/zh-hk/ssp/school/263) |         BAND 1 | 1B | 43 | 61 | 23 |-- | 官立 | 男女 | 英中 |
